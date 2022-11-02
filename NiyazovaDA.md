@@ -27,7 +27,7 @@
 
 * "git commit -m "написать действия"
 
-* "git push --set-upstream origin description"
+* "git push --set-upstream origin название ветки"
 
 * обновить страницу на github
 
