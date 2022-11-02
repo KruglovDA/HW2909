@@ -23,7 +23,9 @@
 
 * Ctrl S (сохранить)
 
-* "git commit -am "написать действия"
+* "git add название файла"
+
+* "git commit -m "написать действия"
 
 * "git push --set-upstream origin description"
 
